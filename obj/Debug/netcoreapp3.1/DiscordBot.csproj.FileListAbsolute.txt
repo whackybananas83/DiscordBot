@@ -1,0 +1,4 @@
+C:\Users\Rlemu\source\repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.exe
+C:\Users\Rlemu\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csprojAssemblyReference.cache
+C:\Users\Rlemu\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\Rlemu\source\repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.AssemblyInfo.cs
